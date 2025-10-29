@@ -1,0 +1,19 @@
+﻿# Carpeta de caché de Visual Studio
+**/.vs/
+
+# Carpetas de compilación (recursivo)
+**/[Bb]in/
+**/[Oo]bj/
+
+# Exclusiones de Visual Studio
+*.sln.docstates
+*.suo
+*.user
+*.config
+*.vssscc
+*.vspscc
+
+# Archivos del sistema
+[Tt]humbs.db
+*.cache
+*~

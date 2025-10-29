@@ -1,0 +1,56 @@
+﻿@model GestionGastos.Models.GastoCreacionViewModel
+@{
+    ViewData["Title"] = "Registrar Gasto";
+}
+
+<h1>Registrar Nuevo Gasto</h1>
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Crear">
+
+            <div asp-validation-summary="All" class="alert alert-danger" role="alert"></div>
+
+            <div class="mb-3">
+                <label asp-for="Descripcion" class="form-label"></label>
+                <input asp-for="Descripcion" class="form-control" />
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Monto" class="form-label"></label>
+                <input asp-for="Monto" type="number" step="0.01" class="form-control" />
+                <span asp-validation-for="Monto" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="id_categoria" class="form-label"></label>
+                <select asp-for="id_categoria" asp-items="Model.Categorias" class="form-select">
+                    <option value="">-- Seleccione una Categoría --</option>
+                </select>
+                <span asp-validation-for="id_categoria" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="id_tipoMovimiento" class="form-label"></label>
+                <select asp-for="id_tipoMovimiento" asp-items="Model.TiposMovimiento" class="form-select">
+                    <option value="">-- Seleccione un Tipo --</option>
+                </select>
+                <span asp-validation-for="id_tipoMovimiento" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="MetodoPago" class="form-label"></label>
+                <input asp-for="MetodoPago" class="form-control" />
+                <span asp-validation-for="MetodoPago" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Registrar Gasto</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

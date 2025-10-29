@@ -1,0 +1,129 @@
+body {
+    animation: fadeInAnimation ease 0.5s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.navbar-nav .nav-link {
+    transition: all 0.2s ease-in-out;
+    padding-bottom: 5px;
+    border-bottom: 3px solid transparent;
+}
+
+    .navbar-nav .nav-link:hover,
+    .navbar-nav .nav-link.active {
+        color: #0d6efd !important;
+        border-bottom: 3px solid #0d6efd;
+    }
+
+.navbar-brand {
+    font-weight: 600;
+}
+
+.card {
+    transition: all 0.3s ease;
+    border: 0;
+    border-radius: 0.75rem;
+}
+
+    .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1) !important;
+    }
+
+.card-header.bg-success {
+    background-color: #198754 !important;
+}
+
+.card-header.bg-primary {
+    background-color: #0d6efd !important;
+}
+
+.card-header.bg-danger {
+    background-color: #dc3545 !important;
+}
+
+h1 {
+    font-weight: 700;
+    color: #333;
+}
+
+.form-control, .form-select {
+    border-radius: 0.5rem;
+    padding: 0.75rem 1rem;
+    border: 1px solid #ced4da;
+    transition: all 0.3s ease;
+}
+
+    .form-control:focus, .form-select:focus {
+        border-color: #0d6efd;
+        box-shadow: 0 0 10px rgba(13, 110, 253, 0.25);
+    }
+
+.btn-primary {
+    font-weight: 600;
+    border-radius: 0.5rem;
+    padding: 0.75rem 1.5rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 10px rgba(13, 110, 253, 0.3);
+}
+
+    .btn-primary:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 8px 15px rgba(13, 110, 253, 0.4);
+    }
+
+.alert-danger, .validation-summary-errors {
+    animation: shakeError 0.5s;
+}
+
+.text-danger, .field-validation-error {
+    font-weight: 600;
+    font-size: 0.9em;
+    animation: shakeError 0.5s;
+}
+
+@keyframes shakeError {
+    0% {
+        transform: translateX(0);
+    }
+
+    20% {
+        transform: translateX(-8px);
+    }
+
+    40% {
+        transform: translateX(8px);
+    }
+
+    60% {
+        transform: translateX(-8px);
+    }
+
+    80% {
+        transform: translateX(8px);
+    }
+
+    100% {
+        transform: translateX(0);
+    }
+}
+
+div.container {
+    flex-grow: 1;
+}

@@ -1,0 +1,68 @@
+﻿@model GestionGastos.Models.SaldoViewModel
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+@if (Model != null)
+{
+    <div class="text-center">
+        <h1 class="display-4">¡Bienvenido, @Model.Usuario!</h1>
+        <p>Este es tu resumen financiero.</p>
+    </div>
+
+    <hr />
+
+    <div class="row text-center">
+
+        <div class="col-md-12 mb-4">
+            <div class="card border-success shadow-lg">
+                <div class="card-header bg-success text-white">
+                    <h2>Saldo Actual Total</h2>
+                </div>
+                <div class="card-body">
+                    <h1 class="display-3">@Model.SaldoActual.ToString("C")</h1>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card border-primary shadow-sm">
+                <div class="card-header bg-primary text-white">
+                    <h5>Total Ingresos</h5>
+                </div>
+                <div class="card-body">
+                    <h3 class="text-primary">@Model.TotalIngresos.ToString("C")</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card border-danger shadow-sm">
+                <div class="card-header bg-danger text-white">
+                    <h5>Total Gastos</h5>
+                </div>
+                <div class="card-body">
+                    <h3 class="text-danger">@Model.TotalGastos.ToString("C")</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card border-secondary shadow-sm">
+                <div class="card-header">
+                    <h5>Saldo Inicial</h5>
+                </div>
+                <div class="card-body">
+                    <h3 class="text-secondary">@Model.SaldoInicial.ToString("C")</h3>
+                </div>
+            </div>
+        </div>
+
+    </div>
+}
+else
+{
+    <div class="alert alert-warning" role="alert">
+        No se pudo cargar la información del saldo para el usuario.
+    </div>
+}

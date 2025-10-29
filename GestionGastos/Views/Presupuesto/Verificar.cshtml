@@ -1,0 +1,67 @@
+﻿@model GestionGastos.Models.PresupuestoViewModel
+@{
+    ViewData["Title"] = "Verificar Presupuesto";
+}
+
+<h1>Verificar Presupuesto</h1>
+<p>Selecciona los filtros para consultar el estado de tu presupuesto.</p>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card shadow-sm">
+            <div class="card-body">
+
+                <form asp-action="Verificar" method="post">
+
+                    <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+
+                    <div class="mb-3">
+                        <label asp-for="Mes" class="form-label"></label>
+                        <input asp-for="Mes" type="number" class="form-control" />
+                        <span asp-validation-for="Mes" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Anio" class="form-label"></label>
+                        <input asp-for="Anio" type="number" class="form-control" />
+                        <span asp-validation-for="Anio" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="CategoriaId" class="form-label"></label>
+                        <select asp-for="CategoriaId" asp-items="Model.Categorias" class="form-select">
+                            <option value="">-- Seleccione una Categoría --</option>
+                        </select>
+                        <span asp-validation-for="CategoriaId" class="text-danger"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary">Verificar</button>
+
+                </form>
+            </div>
+        </div>
+    </div>
+
+    @if (Model.MostrarResultados)
+    {
+        <div class="col-md-6">
+            <div class="card shadow-sm border-primary">
+                <div class="card-header bg-primary text-white">
+                    <h3>Resultado: @Model.Categoria</h3>
+                </div>
+                <div class="card-body text-center">
+                    <h5 class="card-title">Límite: @Model.LimitePresupuesto.ToString("C")</h5>
+                    <h5 class="card-title text-danger">Gastado: @Model.Gastado.ToString("C")</h5>
+                    <hr />
+                    <h3>Estado: @Model.PorcentajeConsumido</h3>
+                    <h5>Diferencia: @Model.Diferencia.ToString("C")</h5>
+                </div>
+            </div>
+        </div>
+    }
+
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -60,5 +60,25 @@ namespace GestionGastos.Repositorios
                 );
             }
         }
+
+        // --- IMPLEMENTACIÓN 3 (Para llamar al SP del Reporte) ---
+        public async Task<IEnumerable<ReporteMensualViewModel>> ObtenerReporteMensual(int id_usuario, int mes, int anio)
+        {
+            using (var connection = new SqlConnection(_connectionString))
+            {
+                var parametros = new
+                {
+                    id_usuario,
+                    mes,
+                    anio
+                };
+
+                return await connection.QueryAsync<ReporteMensualViewModel>(
+                    "GenerarReporteMensual",
+                    parametros,
+                    commandType: CommandType.StoredProcedure
+                );
+            }
+        }
     }
 }

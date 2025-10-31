@@ -3,60 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\danny\\source\\repos\\GestionGastos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\controllers\\gastoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\controllers\\gastoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\models\\gastocreacionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\models\\gastocreacionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\views\\gastos\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\views\\gastos\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\repositorios\\repositoriogastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\repositorios\\repositoriogastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\repositorios\\irepositoriogastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\repositorios\\irepositoriogastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\repositorios\\irepositorioreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\repositorios\\irepositorioreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\models\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\models\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\models\\tipomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\models\\tipomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\models\\reportemensualviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\models\\reportemensualviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\views\\presupuesto\\verificar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\views\\presupuesto\\verificar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\controllers\\presupuestocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\controllers\\presupuestocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\views\\home\\reportemensual.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\views\\home\\reportemensual.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,22 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\repositorios\\repositorioreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\repositorios\\repositorioreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\models\\presupuestoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\models\\presupuestoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\models\\saldoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\models\\saldoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|c:\\users\\danny\\source\\repos\\gestiongastos\\gestiongastos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ECF2299-BFA5-4154-B0A8-CAD1009E5CC1}|GestionGastos\\GestionGastos.csproj|solutionrelative:gestiongastos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -99,246 +39,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "text.txt",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\text.txt",
-              "RelativeDocumentMoniker": "GestionGastos\\text.txt",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\text.txt",
-              "RelativeToolTip": "GestionGastos\\text.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-10-29T11:30:15.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GastosController.cs",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Controllers\\GastosController.cs",
-              "RelativeDocumentMoniker": "GestionGastos\\Controllers\\GastosController.cs",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Controllers\\GastosController.cs",
-              "RelativeToolTip": "GestionGastos\\Controllers\\GastosController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAABAAAA",
+              "Title": "ReporteMensualViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Models\\ReporteMensualViewModel.cs",
+              "RelativeDocumentMoniker": "GestionGastos\\Models\\ReporteMensualViewModel.cs",
+              "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Models\\ReporteMensualViewModel.cs",
+              "RelativeToolTip": "GestionGastos\\Models\\ReporteMensualViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T10:35:57.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IRepositorioReportes.cs",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Repositorios\\IRepositorioReportes.cs",
-              "RelativeDocumentMoniker": "GestionGastos\\Repositorios\\IRepositorioReportes.cs",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Repositorios\\IRepositorioReportes.cs",
-              "RelativeToolTip": "GestionGastos\\Repositorios\\IRepositorioReportes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T20:02:51.027Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IRepositorioGastos.cs",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Repositorios\\IRepositorioGastos.cs",
-              "RelativeDocumentMoniker": "GestionGastos\\Repositorios\\IRepositorioGastos.cs",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Repositorios\\IRepositorioGastos.cs",
-              "RelativeToolTip": "GestionGastos\\Repositorios\\IRepositorioGastos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T20:02:05.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RepositorioGastos.cs",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Repositorios\\RepositorioGastos.cs",
-              "RelativeDocumentMoniker": "GestionGastos\\Repositorios\\RepositorioGastos.cs",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Repositorios\\RepositorioGastos.cs",
-              "RelativeToolTip": "GestionGastos\\Repositorios\\RepositorioGastos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T10:35:43.528Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GastoCreacionViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Models\\GastoCreacionViewModel.cs",
-              "RelativeDocumentMoniker": "GestionGastos\\Models\\GastoCreacionViewModel.cs",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Models\\GastoCreacionViewModel.cs",
-              "RelativeToolTip": "GestionGastos\\Models\\GastoCreacionViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T10:35:05.418Z",
+              "WhenOpened": "2025-10-30T23:30:17.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "GestionGastos\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "GestionGastos\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAQwGwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-29T10:37:18.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Crear.cshtml",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Views\\Gastos\\Crear.cshtml",
-              "RelativeDocumentMoniker": "GestionGastos\\Views\\Gastos\\Crear.cshtml",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Views\\Gastos\\Crear.cshtml",
-              "RelativeToolTip": "GestionGastos\\Views\\Gastos\\Crear.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-29T10:36:19.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Gasto.cs",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Models\\Gasto.cs",
-              "RelativeDocumentMoniker": "GestionGastos\\Models\\Gasto.cs",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Models\\Gasto.cs",
-              "RelativeToolTip": "GestionGastos\\Models\\Gasto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T10:34:10.771Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "tipoMovimiento.cs",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Models\\tipoMovimiento.cs",
-              "RelativeDocumentMoniker": "GestionGastos\\Models\\tipoMovimiento.cs",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Models\\tipoMovimiento.cs",
-              "RelativeToolTip": "GestionGastos\\Models\\tipoMovimiento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T10:37:46.117Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PresupuestoController.cs",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Controllers\\PresupuestoController.cs",
-              "RelativeDocumentMoniker": "GestionGastos\\Controllers\\PresupuestoController.cs",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Controllers\\PresupuestoController.cs",
-              "RelativeToolTip": "GestionGastos\\Controllers\\PresupuestoController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAuwE8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T20:16:41.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "GestionGastos\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "GestionGastos\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-28T20:18:48.729Z"
+              "WhenOpened": "2025-10-30T23:28:20.39Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
+              "Title": "ReporteMensual.cshtml",
+              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Views\\Home\\ReporteMensual.cshtml",
+              "RelativeDocumentMoniker": "GestionGastos\\Views\\Home\\ReporteMensual.cshtml",
+              "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Views\\Home\\ReporteMensual.cshtml",
+              "RelativeToolTip": "GestionGastos\\Views\\Home\\ReporteMensual.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T23:28:06.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "GestionGastos\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Controllers\\HomeController.cs",
               "RelativeToolTip": "GestionGastos\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAuwEUAAAABAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwD8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T20:05:17.952Z"
+              "WhenOpened": "2025-10-30T23:26:27.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 4,
               "Title": "RepositorioReportes.cs",
               "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Repositorios\\RepositorioReportes.cs",
               "RelativeDocumentMoniker": "GestionGastos\\Repositorios\\RepositorioReportes.cs",
               "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Repositorios\\RepositorioReportes.cs",
               "RelativeToolTip": "GestionGastos\\Repositorios\\RepositorioReportes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAUwD8AAAABAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAkwFMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T20:03:20.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "GestionGastos\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "GestionGastos\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAowEMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-28T20:06:46.271Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Verificar.cshtml",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Views\\Presupuesto\\Verificar.cshtml",
-              "RelativeDocumentMoniker": "GestionGastos\\Views\\Presupuesto\\Verificar.cshtml",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Views\\Presupuesto\\Verificar.cshtml",
-              "RelativeToolTip": "GestionGastos\\Views\\Presupuesto\\Verificar.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAEIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-28T20:17:29.362Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PresupuestoViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Models\\PresupuestoViewModel.cs",
-              "RelativeDocumentMoniker": "GestionGastos\\Models\\PresupuestoViewModel.cs",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Models\\PresupuestoViewModel.cs",
-              "RelativeToolTip": "GestionGastos\\Models\\PresupuestoViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T20:12:16.463Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "SaldoViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Models\\SaldoViewModel.cs",
-              "RelativeDocumentMoniker": "GestionGastos\\Models\\SaldoViewModel.cs",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Models\\SaldoViewModel.cs",
-              "RelativeToolTip": "GestionGastos\\Models\\SaldoViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T20:00:32.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "GestionGastos\\Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Models\\Categoria.cs",
-              "RelativeToolTip": "GestionGastos\\Models\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T20:23:18.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Program.cs",
-              "RelativeDocumentMoniker": "GestionGastos\\Program.cs",
-              "ToolTip": "C:\\Users\\danny\\source\\repos\\GestionGastos\\GestionGastos\\Program.cs",
-              "RelativeToolTip": "GestionGastos\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T20:03:55.695Z"
+              "WhenOpened": "2025-10-30T23:25:02.878Z",
+              "EditorCaption": ""
             }
           ]
         }

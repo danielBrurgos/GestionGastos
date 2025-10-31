@@ -12,5 +12,7 @@ namespace GestionGastos.Repositorios
 
         // El método para el SP de presupuesto
         Task<PresupuestoViewModel> VerificarPresupuesto(int id_usuario, int mes, int anio, int id_categoria);
+
+        Task<IEnumerable<ReporteMensualViewModel>> ObtenerReporteMensual(int id_usuario, int mes, int anio);
     }
 }

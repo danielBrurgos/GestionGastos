@@ -77,3 +77,4 @@ C:\Users\danny\source\repos\GestionGastos\GestionGastos\obj\Debug\net8.0\refint\
 C:\Users\danny\source\repos\GestionGastos\GestionGastos\obj\Debug\net8.0\GestionGastos.pdb
 C:\Users\danny\source\repos\GestionGastos\GestionGastos\obj\Debug\net8.0\GestionGastos.genruntimeconfig.cache
 C:\Users\danny\source\repos\GestionGastos\GestionGastos\obj\Debug\net8.0\ref\GestionGastos.dll
+C:\Users\danny\source\repos\GestionGastos\GestionGastos\obj\Debug\net8.0\GestionGastos.sourcelink.json
